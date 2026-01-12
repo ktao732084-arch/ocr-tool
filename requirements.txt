@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+rapidocr_onnxruntime
+python-docx
+opencv-python-headless
